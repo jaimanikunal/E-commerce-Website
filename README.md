@@ -1,0 +1,2 @@
+# E-commerce-Website
+This project is a simple E-commerce website for an e-store. The website consists of HTML, CSS, BOOTSTRAP, MYSQLI code and Advanced PHP where I added advanced features such as validations and security to the website.              &lt;  Any member can register and view available products />             &lt;  Only registered member can purchase multiple products regardless of quantity. />              &lt;  Contact Us page is available to contact Admin for queries. />
