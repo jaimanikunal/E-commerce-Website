@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 9, 2020, 5:53:21 PM
+    Author     : Jai Mani- Alok
+*/
+#banner_image{
+ padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #f8f8f8;
+ background: url("../images/intro-bg_1.jpg") no-repeat center center;
+}
+#banner_content{
+ position: relative;
+ padding-top: 6%;
+ padding-bottom: 6%;
+ margin-top: 12%;
+ margin-bottom: 12%;
+ background-color: rgba(0, 0, 0, 0.7);
+ max-width: 660px; 
+ font-family: Consolas;
+}
+
+.row_style{
+    margin-top: 80px;
+}
+.column_sytle{
+    boder:1px solid #000;
+}
+.height{
+    margin-top:25px;
+}
+.margin_right{
+    margin-right:10px 
+}
+.center{
+            width:200px; 
+            height:200px; 
+            position: fixed; 
+            top: 50%; 
+            left: 50%; 
+            margin-top: -100px; 
+            margin-left: -100px; 
+}
+#content{
+    min-height: 600px;
+}
+.navbar{
+    background-color: white;
+}
+.Facebook{
+    height:30px;
+    width:30px;
+    border:0
+}
+footer {
+    clear: both;
+    position: relative;
+    background-color: black;
+    color:white;
+    width: 100%;
+    bottom: 0;
+    font-weight: 300;
+}
+.thumbnail {
+    background-color: black;
+    width: 250px;
+    height: 200px;
+    display: inline-block; 
+    background-size: cover; 
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.modal-header, .close{
+    background-color: #1b1b1d;
+    color: white !important;
+    text-align: center;
+    font-size: 50px;
+}
+
+.modal-footer{
+    background-color: #f9f9f9;
+}
